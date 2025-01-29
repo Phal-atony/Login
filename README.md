@@ -27,3 +27,27 @@
     </form>
   </div>
 </body>
+.wrapper h1 {
+  text-align: center;
+  font-size: 36px;
+ }
+
+.wrapper.input-box {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin: 30px 0;
+ }
+
+.input-box input {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-radius: 50px;
+  border-radius: 50px;
+  font-size: 16px;
+  color: white;
+  padding: 20px 45px 20px 20px;
+ }
